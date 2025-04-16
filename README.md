@@ -1,10 +1,13 @@
+  ## Desafio calculadora de partidas rankeadas do curso Formação Lógica de Programação da DIO!
+  Instruções:
+
 - Variáveis
 - Operadores
 - Laços de repetição
 - Estruturas de decisões
 - Funções
 
-## Objetivo:
+**Objetivo:**
 
 Crie uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador,
 depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)
